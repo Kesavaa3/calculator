@@ -63,6 +63,7 @@ function division(){
 function res(){
     numbers.push(num)
     num = ""
+    symbol = ""
   if(numbers.length>=2)
   {
     if(symbol==="+"){
